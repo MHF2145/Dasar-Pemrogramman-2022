@@ -27,4 +27,4 @@ Here's my Instagram: @21naqruf
 
 
 To see the Documentary click here:
-![image](https://user-images.githubusercontent.com/117990315/209382218-57822629-e488-4bd8-9b68-f924b3bc39e4.png)
+![image](https://user-images.githubusercontent.com/117990315/209387904-31ccaaea-1120-4fa7-8cfd-43ed30dcaeac.png)
