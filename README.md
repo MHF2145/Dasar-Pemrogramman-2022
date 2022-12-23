@@ -4,6 +4,8 @@ All files and source code related to basic programming from 2022nd class
 So this is a complete documentary about basic programming course of class in the year 2022 in ITS
 And this is the one who's been contributing on this documentary:
 
+IUP Class: Robin, Hassan
+
 A Class: Jericho, Aan, Juan
 
 B Class: Fira, Iftala, Zharif, Fatih
