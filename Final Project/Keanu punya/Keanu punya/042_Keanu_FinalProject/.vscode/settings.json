@@ -1,0 +1,12 @@
+// Workspace settings
+{
+    "files.exclude": {
+        "**/*.o": true,
+        "**/*.d": true
+    },
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "data.h": "c"
+    }
+}
