@@ -1,0 +1,46 @@
+# Project: Project1
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe -D__DEBUG__
+CC       = gcc.exe -D__DEBUG__
+WINDRES  = windres.exe
+OBJ      = mainmenu.o mk.o dosen.o mhssw.o inp_mk.o inp_dosen.o inp_mhhsw.o
+LINKOBJ  = mainmenu.o mk.o dosen.o mhssw.o inp_mk.o inp_dosen.o inp_mhhsw.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -g3
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = "FP HANIF FINAL 1161.exe"
+CXXFLAGS = $(CXXINCS) -g3
+CFLAGS   = $(INCS) -g3
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CC) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+mainmenu.o: mainmenu.c
+	$(CC) -c mainmenu.c -o mainmenu.o $(CFLAGS)
+
+mk.o: mk.c
+	$(CC) -c mk.c -o mk.o $(CFLAGS)
+
+dosen.o: dosen.c
+	$(CC) -c dosen.c -o dosen.o $(CFLAGS)
+
+mhssw.o: mhssw.c
+	$(CC) -c mhssw.c -o mhssw.o $(CFLAGS)
+
+inp_mk.o: inp_mk.c
+	$(CC) -c inp_mk.c -o inp_mk.o $(CFLAGS)
+
+inp_dosen.o: inp_dosen.c
+	$(CC) -c inp_dosen.c -o inp_dosen.o $(CFLAGS)
+
+inp_mhhsw.o: inp_mhhsw.c
+	$(CC) -c inp_mhhsw.c -o inp_mhhsw.o $(CFLAGS)
