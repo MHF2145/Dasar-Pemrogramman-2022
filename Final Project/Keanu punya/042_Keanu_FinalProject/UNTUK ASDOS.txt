@@ -1,0 +1,7 @@
+Proyek menggunakan warna, disarankan menggunakan terminal yang mendukung fitur tersebut
+Rekomendasi: Windows Terminal
+
+Tidak direkomendasikan:
+- CMD
+- Powershell
+- Git Bash
