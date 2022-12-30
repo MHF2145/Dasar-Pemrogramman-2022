@@ -1,0 +1,50 @@
+Hari ini, tukul genap berusia 17 tahun. Dia ingin sekali merayakan ulang
+tahunnya tersebut. Untuk itu, sule membeli sepotong kue berbentuk persegi yang akan
+dibagikan ke teman-temannya.
+
+Karena ukuran kue cukup kecil, sule hanya mengundang 2 sahabat terdekatnya, yaitu
+andre dan gilbert. Namun, teman-teman lainnya pun ternyata ikut datang
+merayakan ulang tahunnya.
+
+Sekarang sule harus berpikir keras agar dapat membagi kue tersebut kepada semua temannya
+sama rata. Namun, ada kendala lainnya. Pisau untuk memotong kue sudah hampir rusak. Oleh
+karena itu, sule harus memotong kue tersebut dengan banyak potongan sesedikit mungkin.
+
+Melihat sahabatnya bingung, Uryuu memberi suatu petujuk pemotongan kue. Kue akan dipotong
+di bagian tengahnya secara vertikal. Setelah itu, potongan-potongan kue akan ditumpuk dan
+dipotong lagi di bagian tengahnya secara vertikal. Dengan cara itu, hanya dengan 2 kali
+potongan, kue terbelah menjadi 4.
+
+sule : Bagaimana jika ada sisa kue?
+Uryuu   : Tidak masalah!
+sule : Maksudmu?
+Uryuu   : Kan ada pelayan-pelayanmu.
+sule : Ok. Sekarang, aku harus memotong kue ini berapa kali?
+Uryuu   : ...
+sule : Kok bingung, yang ada di sini kan hanya N orang termasuk aku dan kamu?
+Uryuu   : Saya minta tolong sama orang yang lagi baca ini saja, ya ^_^
+
+Spesifikasi input :
+Baris pertama berisi banyak kasus.
+Baris-baris berikutnya berisi N setiap kasus.
+Nilai N tidak akan melebihi integer dalam bahasa C.
+
+Spesifikasi output :
+Jawaban untuk setiap kasus.
+
+Contoh input :
+3
+2
+4
+5
+
+Contoh output :
+1
+2
+3
+
+Petunjuk :
+Cetak output secara langsung untuk setiap input, jangan simpan semua baru dicetak.
+
+Penting :
+Buat fungsi untuk menghitung banyaknya potongan jika diketahui N!

@@ -1,0 +1,46 @@
+Setelah lolos dari kematiannya, Josephus dikenal sebagai ahli strategi dari Roma.
+Berita itu menyebar dengan cepat. Hampir semua orang mengetahui hal itu, tidak
+terkecuali Josephine.
+
+Suatu hari, di perumahan tempat tinggal Josephine, diadakan arisan ibu-ibu rumah tangga.
+Pada arisan itu, ditarik suatu kesepakatan bahwa akan diadakan liburan piknik bersama
+para ibu-ibu RT. Sebagai salah satu ibu rumah tangga, tentu Josephine juga ikut.
+Masalahnya, uang kas RT tidak cukup untuk membiayai piknik bersama tersebut dan para
+ibu rumah tangga di RT tersebut sangat egois. Tidak ada seorangpun dari mereka yang mau
+menyumbang untuk acara tersebut.
+
+Sebagai orang yang kreatif, Josephine punya cara untuk menyelesaikan permasalahan tersebut.
+Para ibu rumah tangga duduk melingkari sebuah meja bundar. Di setiap tempat duduk, dipasang
+nomor tempat duduk. Josephine duduk di kursi pertama. Josephine akan berhitung mulai dari
+satu, dan orang yang duduk di kursi nomor 2 melanjutkan hitungannya. Setelah itu, hitungan
+akan dilanjutkan oleh orang yang berada di kursi ke-3. Setelah hitungan sampai pada orang
+yang duduk di kursi terakhir, orang yang duduk di kursi pertama melanjutkan hitungannya.
+Hitungan berhenti setelah mencapai N. Orang yang menghitung N harus menyumbang untuk
+acara piknik tersebut.
+
+Spesifikasi input :
+Input terdiri dari 5 baris.
+Setiap baris terdapat 2 bilangan.
+Bilangan pertama menyatakan banyak ibu rumah tangga.
+Bilangan kedua menyatakan N.
+
+Spesifikasi output :
+Sebuah bilangan yang menyatakan nomor orang yang harus menyumbang.
+
+Contoh input :
+3 1
+3 2
+3 4
+3 5
+3 7
+
+Contoh output :
+1
+2
+1
+2
+1
+
+Penjelasan input ke-4 :
+Setelah orang ke-3 menghitung 3, Josephine sebagai orang pertama menghitung 4 dan
+orang ke-2 menghitung 5. Karena N=5, orang ke-2 harus menyumbang untuk piknik.

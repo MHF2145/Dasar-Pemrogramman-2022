@@ -1,0 +1,32 @@
+Di sebuah hutan yang rindang, hiduplah seseorang yang bernama Jahrakal. Jahrakal adalah
+seseorang yang pandai. Dia suka menghitung banyaknya pohon yang ada di hutan tersebut. Suatu
+hari, datanglah orang lain yang bernama Jinzakk.
+
+Jinzakk suka sekali bermain api. Suatu ketika, api Jinzakk mambakar hutan tempat tinggal
+Jahrakal. Jahrakal pun berusaha menghentikan kebakaran hutan sekuat tenaganya. Setelah beberapa lama, api pun padam.
+
+Jahrakal ingin sekali mengetahui banyaknya pohon yang tersisa di hutan, tetapi apa daya dia
+kehabisan tenaga. Sebagai seorang mahasiswa ITS, anda wajib membantu Jahrakal menghitung sisa
+pohon yang ada di hutan.
+
+Hutan dipastikan berbentuk persegi dengan luas N^2 yang tidak lebih dari 1000000.
+
+Spesifikasi input :
+Baris pertama berisi N dan baris-baris berikutnya adalah keadaan hutan.
+1 berarti ada sebuah pohon dan 0 berarti tidak ada pohon.
+Setiap angka dipisahkan oleh spasi.
+
+Spesifikasi output :
+Satu barisada berisi banyaknya pohon di hutan.
+
+Contoh input :
+3
+1 0 1
+0 1 0
+1 0 1
+
+Contoh output :
+5
+
+Penting :
+Buat fungsi untuk membaca keadaan hutan jika nilai N dimasukkan ke fungsi!

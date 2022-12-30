@@ -1,0 +1,30 @@
+Bima(bukan nama sebenarnya) adalah seorang anak SD yang sangat malas sekali. 
+karena tidak pernah belajar dia masih belum bisa membaca dan menghitung.
+Suatu hari di kelas dia mendapat hukuman dari Ibu guru Septi(bukan nama sebenarnya) karena tidak mengerjakan tugas matematika.
+Bu Septi memberinya sebuah daftar angka yang sangat banyak sekali kepada Bima.
+Dia harus memilih angka-angka yang ada dalam daftar tersebut dan menghitung banyak digitnya.
+Jika Dia memilih angka lebih kecil dari angka sebelumnya maka Dia harus keluar dari kelas.
+Bantulah bima untuk menghitung digit dari angka tersebut.
+
+
+Spesifikasi Input
+Input adalah Angka yang merupakan bilangan yang nilainya tidak melebihi nilai integer bulat positif
+
+Spesifikasi Output : 
+Satu baris berisi banyak digit bilangan yang disebut Bima
+
+Contoh Input :
+1
+34
+56
+345
+34
+
+Contoh Output :
+1
+2
+2
+3
+
+Note :
+Angka 34 pada baris ke-5 tidak diproses karena angka 34 kurang dari 345 pada baris ke-4

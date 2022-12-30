@@ -1,0 +1,29 @@
+Rani, Winona, Tari (bukan nama sebenarnya) senang bermain petak umpet. 
+Mereka selalu bergantian untuk berjaga. 
+Nantinya pada saat berjaga mereka akan berhitung, tetapi dengan urutan angka yang berbeda.
+Setiap jaga, Penjaga harus berhitung sebanyak N atau kurang dari N bilangan yang hitungannya akan selalu ditambah- 
+dengan bilangan i yang selalu bertambah. 
+Aturan lainnya yaitu mereka boleh berhitung sesukanya, akan tetapi jika hitungan mereka kurang- 
+dari penjaga sebelumnya, maka yang jaga pada saat itu akan kalah dan harus mentraktir teman yang
+lainnya. Bantulah mereka untuk membuat simulasi dari permainan mereka!!!
+
+Spesifikasi Input
+Bilangan N yang nilainya tidak melebihi kapasitas integer. 
+Berhenti memproses jika input sekarang kurang dari input sebelumnya. 
+
+Spesifikasi Output
+satu baris Hasil dari Input
+
+
+Contoh:
+4
+17
+50
+43
+
+
+Contoh:
+1 2 4
+1 2 4 7 11 16
+1 2 4 7 11 16 22 29 37 46
+

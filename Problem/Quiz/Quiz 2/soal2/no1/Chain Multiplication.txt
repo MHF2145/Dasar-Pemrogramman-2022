@@ -1,0 +1,14 @@
+Spesifikasi input :
+Baris pertama menunjukan banyaknya bilangan.
+Baris kedua berisi bilangan-bilangan tersebut.
+
+Spesifikasi output :
+Satu bilangan yang merupakan hasil perkalian semua bilangan tersebut.
+Hasil perkalian tidak akan melebihi integer pada bahasa C.
+
+Contoh input :
+3
+1 2 3
+
+Contoh output :
+6

@@ -1,0 +1,30 @@
+Jojo dan Sinta sukanya makan sosis. Suatu hari, mereka saling iri karena panjang sosis mereka
+berbeda. Karena itu, mereka memutuskan untuk membeli lagi sosis yang panjangnya sama.
+
+Anggap panjang sosis milik Jojo N sentimeter dan panjang sosis milik Sinta M sentimeter. Ada
+2 buah bilangan bulat positif A dan B yang memiliki nilai P terkecil di mana P adalah
+panjang sosis yang akan mereka beli. P harus lebih besar dari N atau M.
+
+Hubungan A, B, dan panjang sosis-sosis adalah :
+N*A = M*B = P
+
+Nilai N dan M tidak akan melebihi nilai integer pada bahasa C.
+
+Spesifikasi input :
+Setiap baris berisi nilai N dan M.
+Input diakhiri dengan nilai N=0 dan M=0 yang tidak perlu diproses.
+
+Spesifikasi output :
+Satu baris berisi A+B pada setiap kasus.
+
+Contoh input :
+1 2
+3 4
+0 0
+
+Contoh output :
+3
+7
+
+Penting :
+Buat fungsi yang mengeluarkan nilai P jika N dan M dimasukkan ke fungsi!

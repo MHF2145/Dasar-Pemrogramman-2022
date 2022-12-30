@@ -1,0 +1,28 @@
+Cetaklah bilangan prima ke-N dengan 1 <= N <= 100.
+
+Spesifikasi input :
+Ada banyak N dengan setiap N dipisahkan oleh 'newline character'. Input dihentikan oleh EOF.
+
+Spesifikasi output :
+Setiap baris berisi prima ke-N.
+
+Contoh input :
+1
+2
+3
+
+Contoh output :
+2
+3
+5
+
+Petunjuk :
+Gunakan potongan kode di bawah ini
+
+while(scanf("%d",&n)!=EOF)
+{
+	//kalimat-kalimat
+}
+
+Perintah :
+Buat fungsi untuk mencari bilangan prima ke-N!
