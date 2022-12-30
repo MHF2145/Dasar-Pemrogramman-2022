@@ -1,0 +1,10 @@
+_ _ _ _ _ _ _
+
+ketentuan :
+- 7 digit
+- tiap digit itungnya: 	digit/8%2 = a
+			digit/4%2 = b
+			digit/2%2 = c
+			digit/1%2 = d
+- total = a+b+c+d
+- trs dari total per digit ditambah satu2 jadi (totaldigit1, totaldigit2, dsb)
