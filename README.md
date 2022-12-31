@@ -29,7 +29,7 @@ feel free to contact me in the instagram to get in touch with them
 Here's my Instagram: @21naqruf
 
 To see the Documentary click here:
-![image](https://user-images.githubusercontent.com/117990315/209387904-31ccaaea-1120-4fa7-8cfd-43ed30dcaeac.png)
+![image](https://user-images.githubusercontent.com/117990315/210136528-2ada70cd-e23a-4431-b25d-660882cd9de4.png)
 
 Other Course Documentary:
 https://drive.google.com/drive/folders/1PjfQbWcOGG6ciTgJ2EN845VWefzKFH42?usp=sharing
