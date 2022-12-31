@@ -33,3 +33,9 @@ To see the Documentary click here:
 
 Other Course Documentary:
 https://drive.google.com/drive/folders/1PjfQbWcOGG6ciTgJ2EN845VWefzKFH42?usp=sharing
+
+More Material for this course:
+
+https://github.com/AlproITS/DasarPemrograman/wiki
+
+https://dasprog2022.carrd.co/
