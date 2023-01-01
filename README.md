@@ -47,8 +47,10 @@ Contact the seniors listed above through their Github or social media if you hav
 ***
 
 Documentary for other courses:
+
 https://drive.google.com/drive/folders/1PjfQbWcOGG6ciTgJ2EN845VWefzKFH42?usp=sharing
 
 Additional materials for this course:
+
 https://github.com/AlproITS/DasarPemrograman/wik
 https://dasprog2022.carrd.co/
