@@ -6,45 +6,44 @@ All files and source codes are related to the Basic Programming class of 2022 at
 
 ## Contributors
 ### IUP Class
-- Robin: github.com/Rubinskiy
+- Robin: [@Rubinskiy](https://github.com/Rubinskiy)
 - Hassan: -
 
 ### Class A
-- Jericho: instagram.com/jericho_cs6
-- Aan: github.com/AndikaRT421
-- Juan: github.com/Djuanzz
+- Jericho: [@jericho_cs6](https://www.instagram.com/jericho_cs6/)
+- Aan: [@AndikaRT421](https://github.com/AndikaRT421)
+- Juan: [@Djuanzz](https://github.com/Djuanzz)
 
 ### Class B
-- Fira: github.com/kachponz
-- Iftala: github.com/ifzahri
+- Fira: [@kachponz](https://github.com/kachponz)
+- Iftala: [@ifzahri](https://github.com/ifzahri)
 - Zharif: -
-- Fatih: instagram.com/fatih.rmdn
+- Fatih: [@fatih.rmdn](https://www.instagram.com/fatih.rmdn)
 
 ### Class C 
-- Jesse: instagram.com/jesse.rjs
-- Koresy: github.com/korekorokero
+- Jesse: [@jesse.rjs](https://www.instagram.com/jesse.rjs)
+- Koresy: [@korekorokero](https://github.com/korekorokero)
 
 ### Class D
-
-- Aqil: instagram.com/qiqi_farrukh
-- Keyo: instagram.com/keyo01_ (ada akun cosplay, cari aja)
-- Ainun: github.com/ainunns
+- Aqil: [@qiqi_farrukh](https://www.instagram.com/qiqi_farrukh)
+- Keyo: [@keyo01_](https://www.instagram.com/keyo01_) (ada akun cosplay, cari aja)
+- Ainun: [@ainunns](https://github.com/ainunns)
 
 ### Class E
 - Genta: -
 
 ### Class F
-- Gesang: github.com/gesangwidigdo
-- Ivan: instagram.com/ivnadinata
+- Gesang: [@gesangwidigdo](https://github.com/gesangwidigdo)
+- Ivan: [@ivnadinata](https://www.instagram.com/ivnadinata)
 
 ### Class G
-- Hanif: github.com/MHF2145
-- Akmal: github.com/fadhlakmal
-- Keanu: github.com/keanutaufan
-- Razan 22: github.com/razabd
-- Razan 21: github.com/athraz
+- Hanif: [@MHF2145](https://github.com/MHF2145)
+- Akmal: [@fadhlakmal](https://github.com/fadhlakmal)
+- Keanu: [@keanutaufan](https://github.com/keanutaufan)
+- Razan 22: [@razabd](https://github.com/razabd)
+- Razan 21: [@athraz](https://github.com/athraz)
 
-Contact the seniors listed above through their github or social media if you have any questions. Please remember to introduce yourself first.
+Contact the seniors listed above through their Github or social media if you have any questions. Please remember to introduce yourself first.
 ***
 
 Documentary for other courses:
@@ -53,4 +52,3 @@ https://drive.google.com/drive/folders/1PjfQbWcOGG6ciTgJ2EN845VWefzKFH42?usp=sha
 Additional materials for this course:
 https://github.com/AlproITS/DasarPemrograman/wik
 https://dasprog2022.carrd.co/
-
