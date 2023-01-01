@@ -6,43 +6,43 @@ All files and source codes are related to the Basic Programming class of 2022 at
 
 ## Contributors
 ### IUP Class
-- Robin: @rubinskiy
+- Robin: github.com/Rubinskiy
 - Hassan: -
 
 ### Class A
-- Jericho: http://instagram.com/jericho_cs6
-- Aan: @AndikaRT421
-- Juan: @Djuanzz
+- Jericho: instagram.com/jericho_cs6
+- Aan: github.com/AndikaRT421
+- Juan: github.com/Djuanzz
 
 ### Class B
-- Fira: @kachponz
-- Iftala: @ifzahri
+- Fira: github.com/kachponz
+- Iftala: github.com/ifzahri
 - Zharif: -
-- Fatih: https://www.instagram.com/fatih.rmdn/
+- Fatih: instagram.com/fatih.rmdn
 
 ### Class C 
-- Jesse: http://instagram.com/jesse.rjs
-- Koresy: @korekorokero
+- Jesse: instagram.com/jesse.rjs
+- Koresy: github.com/korekorokero
 
 ### Class D
 
-- Aqil: http://instagram.com/qiqi_farrukh
-- Keyo: http://instagram.com/keyo01_ (ada akun cosplay, cari aja)
-- Ainun: @ainunns
+- Aqil: instagram.com/qiqi_farrukh
+- Keyo: instagram.com/keyo01_ (ada akun cosplay, cari aja)
+- Ainun: github.com/ainunns
 
 ### Class E
 - Genta: -
 
 ### Class F
-- Gesang: @gesangwidigdo
-- Ivan: http://instagram.com/ivnadinata
+- Gesang: github.com/gesangwidigdo
+- Ivan: instagram.com/ivnadinata
 
 ### Class G
-- Hanif: @MHF2145
-- Akmal: @fadhlakmal
-- Keanu: @keanutaufan
-- Razan 22: @razabd
-- Razan 21: @athraz
+- Hanif: github.com/MHF2145
+- Akmal: github.com/fadhlakmal
+- Keanu: github.com/keanutaufan
+- Razan 22: github.com/razabd
+- Razan 21: github.com/athraz
 
 Contact the seniors listed above through their github or social media if you have any questions. Please remember to introduce yourself first.
 ***
@@ -53,3 +53,4 @@ https://drive.google.com/drive/folders/1PjfQbWcOGG6ciTgJ2EN845VWefzKFH42?usp=sha
 Additional materials for this course:
 https://github.com/AlproITS/DasarPemrograman/wik
 https://dasprog2022.carrd.co/
+
